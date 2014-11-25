@@ -9,3 +9,5 @@ Through this tutorial, I created a simple 2D mobile game. The goal of the game i
 For this project, I started with a framework called Corona SDK. What I really liked about Corona SDK was that it had a simulator where you can try out your game to see how it looks on a device (Iphone, Ipad, Galaxy, etc.). I used a code editor called Outlaw IDE to import files and write the program language called Lua. 
 
 In this repo, you will find the Lua code I programmed while following the tutorial. The images and audio files that are implemented into the game. I also took screenshots of my progress throughtout my lessons to show how I went from a blank file to implemented pieces of code to create the full game.
+
+Through this project, I definetly want to learn more about mobile game development and will take more courses in order to start creating my own mobile games.
